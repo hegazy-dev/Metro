@@ -1,0 +1,42 @@
+G:\Project - WDT\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.deps.json
+G:\Project - WDT\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.runtimeconfig.json
+G:\Project - WDT\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.dll
+G:\Project - WDT\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.pdb
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.csproj.AssemblyReference.cache
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.AssemblyInfoInputs.cache
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.AssemblyInfo.cs
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.csproj.CoreCompileInputs.cache
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.dll
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\refint\Metro.Core.dll
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.pdb
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.genruntimeconfig.cache
+G:\Project - WDT\Cairo Metro\Metro.Core\obj\Debug\net8.0\ref\Metro.Core.dll
+D:\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.deps.json
+D:\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.runtimeconfig.json
+D:\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.dll
+D:\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.pdb
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.csproj.AssemblyReference.cache
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.AssemblyInfoInputs.cache
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.AssemblyInfo.cs
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.csproj.CoreCompileInputs.cache
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.dll
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\refint\Metro.Core.dll
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.pdb
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.genruntimeconfig.cache
+D:\Cairo Metro\Metro.Core\obj\Debug\net8.0\ref\Metro.Core.dll
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.deps.json
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.runtimeconfig.json
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.dll
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\bin\Debug\net8.0\Metro.Core.pdb
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.csproj.AssemblyReference.cache
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.AssemblyInfoInputs.cache
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.AssemblyInfo.cs
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.csproj.CoreCompileInputs.cache
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.dll
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\refint\Metro.Core.dll
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.pdb
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\Metro.Core.genruntimeconfig.cache
+D:\Study\Year 3 - Second Term\WDT Project\Metro Project\Cairo Metro\Metro.Core\obj\Debug\net8.0\ref\Metro.Core.dll

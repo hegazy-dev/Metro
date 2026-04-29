@@ -1,0 +1,33 @@
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.deps.json
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.pdb
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.AssemblyInfoInputs.cache
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.AssemblyInfo.cs
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\refint\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.pdb
+C:\Users\Abdalrahman\Documents\Projects\Cairo Metro\Metro.Core\obj\Debug\net10.0\ref\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.deps.json
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.pdb
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.AssemblyInfoInputs.cache
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.AssemblyInfo.cs
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\refint\Metro.Core.dll
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.pdb
+C:\Users\Abdalrahman\Documents\Projects\ASP.NET Core\Cairo Metro\Metro.Core\obj\Debug\net10.0\ref\Metro.Core.dll
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.deps.json
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.dll
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\bin\Debug\net10.0\Metro.Core.pdb
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.AssemblyInfoInputs.cache
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.AssemblyInfo.cs
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.csproj.CoreCompileInputs.cache
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.dll
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\refint\Metro.Core.dll
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\Metro.Core.pdb
+D:\Cairo Metro-20260411T071504Z-3-001\Cairo Metro\Metro.Core\obj\Debug\net10.0\ref\Metro.Core.dll
